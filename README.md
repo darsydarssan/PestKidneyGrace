@@ -3,7 +3,7 @@ This is the data repository for public available code and data to reproduce anal
 
 (https://github.com/MountStats/PestKidneyGrace/dataprep.do) includes the code to extract all necessary data and prepocess data for statistical analyses.
 
-The datapre.do file directly download the necessar data from (https://wwwn.cdc.gov/nchs/nhanes/Default.aspx)
+The datapre.do file directly download the necessary data from (https://wwwn.cdc.gov/nchs/nhanes/Default.aspx)
 
 Variable name (NHANES)			
 				2001-02	2003-04	2007-08	2009-10
